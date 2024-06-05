@@ -1,0 +1,266 @@
+*{
+    margin:0px;
+   padding: 0px;
+}
+.main{
+   display: flex;
+   list-style-type: none;
+   
+  
+}
+.logo{
+    display: flex;
+}
+h1{
+    padding-top: 10px;
+}
+.navbar{
+    padding-left: 200px;
+   
+}
+ul{
+    list-style-type: none;
+    display: flex;
+  
+}
+li{
+    padding-left: 100px;
+    padding-top: 30px;
+    font-weight: bold;
+    
+    
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+.header{
+    font-size: 100px;
+    padding-top: 100px;
+}
+P{
+    font-size: 20px;
+}
+button{
+    background-color:rgba(0, 0, 0, 0.24);
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 35px;
+    color: antiquewhite;
+    background-color: black;
+    border-color: black; 
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+
+}
+.nature{
+    text-align: center;
+    padding-top: 100px;
+}
+p{
+    font-size: 50px;
+    padding-top: 70px;
+    
+}
+.design{
+    padding-top:40px;
+    padding-left: 70px;
+    padding-right: 70px;
+    text-align:center;
+    
+   
+   
+}
+.design p{
+    font-size: 20px;
+    padding-top: 20px;
+   
+}
+.marketing{
+    padding-top:40px;
+    padding-left: 70px;
+    text-align:center;
+}
+.marketing p{
+    font-size: 20px;
+    padding-top: 20px;
+    
+}
+.branding{
+    padding-top:40px;
+    padding-left:70px;
+    text-align:center;
+}
+.branding p{
+    font-size: 20px;
+    padding-top: 20px;
+    
+    
+}
+.flex{
+    display: flex;
+   
+}
+h4{
+    font-size: 50px;
+    padding-top: 40px;
+    font-style:normal;
+}
+h4{
+    padding-left: 40px;
+}
+.car{
+    padding-left: 40px;
+}
+.task1 h5{
+   font-size: 50px;
+}
+.task1{
+    padding-left: 100px;
+    text-align: center;
+    padding-top: 150px;
+}
+    
+.doc{
+    display: flex;
+}
+.task2 h7{
+    font-size: 50px;
+
+}
+.task2{
+    padding-left: 100px;
+    text-align: center;
+    padding-top: 150px;
+}
+.task3{
+    padding-left: 300px;
+}
+.task4{
+    display: flex;
+}
+
+
+.task6{
+    padding-left: 150px;
+    padding-top: 20px;
+}
+
+.task7 h9{
+    font-size: 50px;
+}
+.task7{
+    padding-left: 100px;
+    text-align: center;
+    padding-top: 150px;
+}
+.task5{
+    display: flex;
+}
+.task8 p{
+    font-size:30px ;
+}
+
+.task9 h2{
+    padding-left: 20px;
+    padding-top: 20px;
+   
+}
+ul{
+    padding-top: 20px;
+    text-align: center;
+}
+ ul li {
+    padding-left: 40px;
+    text-align: center;
+    
+   
+   
+}
+.task10 h2{
+    padding-left:150px ;
+    padding-top: 30px;
+
+
+}
+.task10 p{
+    font-size: 25px;
+    padding-left:150px ;
+}
+.task10 img{
+    
+    padding-top: 50px;
+    padding-left: 100px; 
+    margin-left: 40px;
+}
+.task11{
+    display: flex;
+}
+h3{
+    font-size: 50px;
+    padding-top: 50px;
+}
+.box{
+    display: flex;
+    width: 100%;
+    column-gap: 40px;
+    padding-top: 30px;
+}
+.b1{
+    width: 600px;
+    height: 500px;
+    background-color: white
+}
+.b1 h3{
+    font-size: 20px;
+    
+}
+.b1 p{
+    font-size: 20px;
+padding-top: 20px;
+}
+.b2{
+    width: 600px;
+    height: 500px;
+    background-color: white
+}
+.b2 h3 {
+    font-size: 20px;
+}
+.b2 p{
+    font-size: 20px;
+padding-top: 20px;
+}
+
+.b3{
+    width: 600px;
+    height: 500px;
+    background-color: white
+}
+.b3 h3{
+    font-size: 20px;
+}
+.b3 p{ 
+    font-size: 20px;
+    padding-top: 20px;
+    }
+.box1{
+    display: flex;
+}
+.b3 input{
+    border-bottom: 1px black solid;
+    
+}
+input{
+    outline: 0;
+    border-width: 0 0 2px;
+}
+button:hover{
+   background-color: white;
+   color: black;
+}
+.task10 img{
+  border-radius: 50%;  
+}
